@@ -40,4 +40,4 @@ DevDetective is a GitHub user profile viewer application that allows users to se
 <img src="./assets/screenshot/default-light-mode.png">
 
 *Search Results*
-<img src="./assets/screenshot/search-results.png">
+<img src="./assets/screenshot/Search-results.png">
